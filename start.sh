@@ -7,7 +7,7 @@ run_npm() {
   echo "npm is running"
 }
 run_npm
-sleep 3
+sleep 2
 
 # 运行assistant
 run_assistant() {
