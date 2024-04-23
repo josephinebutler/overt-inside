@@ -215,8 +215,6 @@
             {
                 "type":"field",
                 "domain":[
-                    "domain:openai.com",
-                    "domain:ai.com",
                     "domain:reddit.com"
                 ],
                 "outboundTag":"WARP"
